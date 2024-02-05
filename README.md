@@ -1,7 +1,4 @@
 <html>
-    <head>
-        <title>README</title>
-    </head>
     <body>
         <!-- Imagen -->
         <div>
@@ -38,9 +35,8 @@
             <!--coloca graficas-->
             <p align="center">
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&layout=compact&theme=radical" /><br><br>
-                <img src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=radical" /> <br><br>
+                <img src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=radical" /> <br><br> 
             </p> 
-            
         </div>
         <div>
             <p align="center">
