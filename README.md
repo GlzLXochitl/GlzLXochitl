@@ -2,12 +2,6 @@
     <body>
         <!-- Imagen -->
         <div>
-            <p align="center"> <!-- snake-->
-                <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-                    alt="snake" /></a><br><br>
-            </p>
-        </div>
-        <div>
             <p align="center">
                 <br>
                 <a href="https://www.facebook.com/profile.php?id=100036243570481&mibextid=ZbWKwL"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
@@ -31,13 +25,6 @@
             </p>
         </div><br>
         <div>
-            <p align="center">
-                <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-                <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
-                <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-            </p>
-        </div><br><br>
-        <div>
             <!--coloca graficas-->
             <p align="center">
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&layout=compact&theme=radical" /><br><br>
@@ -45,6 +32,18 @@
             </p> 
         </div>
         <div> 
+            <p align="center"> <!-- snake-->
+                <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+                    alt="snake" /></a><br><br>
+            </p>
+        </div>
+         <div>
+            <p align="center">
+                <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+                <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
+                <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+            </p>
+        </div><br><br>
         <div>
             <p align="center">
                 <!-- <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> -->
