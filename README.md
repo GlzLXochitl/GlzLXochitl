@@ -2,6 +2,12 @@
     <body>
         <!-- Imagen -->
         <div>
+            <p align="center"> <!-- snake-->
+                <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+                    alt="snake" /></a><br><br>
+            </p>
+        </div>
+        <div>
             <p align="center">
                 <br>
                 <a href="https://www.facebook.com/profile.php?id=100036243570481&mibextid=ZbWKwL"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
@@ -38,11 +44,7 @@
                 <img src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=radical" /> <br><br> 
             </p> 
         </div>
-        <div>
-            <p align="center">
-                <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-                    alt="snake" /></a><br><br>
-            </p>
+        <div> 
         <div>
             <p align="center">
                 <!-- <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> -->
@@ -54,7 +56,6 @@
                 <!-- <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white"> -->
                 <!-- <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> -->
                 <!-- <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> -->
-
                 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
                 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
                 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -67,8 +68,6 @@
                 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
             </p>
         </div>
-        
-        
     </body>
 
 
