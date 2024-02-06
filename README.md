@@ -18,8 +18,8 @@
             <p align="center">
                 <samp><b>
                 My name is Xóchitl 🙈, I am a university student in Information Technology, multiplatform software development 🎓. <br>
-                I am passionate about new technologies ❤️✨ and beyond programming ☝️, I am committed to the positive impact of technology in society 😃 <br>
-                and I dream of one day being able to contribute with my grain of sand 😊. <br>
+                I am passionate about new technologies ❤️✨ and beyond programming ☝️, I am committed to the positive impact of technology <br>
+                in society 😃 and I dream of one day being able to contribute with my grain of sand 😊. <br>
                 </b></samp>
                 <br><br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
             </p>
