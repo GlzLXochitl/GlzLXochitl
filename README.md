@@ -38,11 +38,10 @@
                 </tr>
                 </table>
         </div><br><br>
-        <div> 
-            <p align="center"> <!-- snake-->
-                <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-                    alt="snake" /></a><br><br>
-            </p>
+        <div align="center">  <!-- snake-->
+              <a href="https://1999azzar.github.io/1999AZZAR/">
+                <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
+              </a>
         </div>
          <div>
             <p align="center">
