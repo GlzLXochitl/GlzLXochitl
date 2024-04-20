@@ -3,7 +3,7 @@
         <div>
             <p align="center">
                 <br>
-                <a href="https://www.linkedin.com/in/am%C3%A9rica-x%C3%B3chitl-gonz%C3%A1lez-leos-b52415289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+                <a href="https://www.linkedin.com/in/am%C3%A9rica-x%C3%B3chitl-gonz%C3%A1lez-leos-b52415289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" onclick="window.open(this.href, '_blank'); return false;"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
                 <a href="https://discord.gg/zKaZmnUg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
                 <a href = "mailto:glzlxochitl@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@glzlxochitl"  /></a>
             </p>
