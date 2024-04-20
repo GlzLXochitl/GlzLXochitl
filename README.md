@@ -3,8 +3,6 @@
         <div>
             <p align="center">
                 <br>
-                <a href="https://www.facebook.com/profile.php?id=100036243570481&mibextid=ZbWKwL" target="_blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
-                <a href="https://www.instagram.com/xochitlgl4903?igsh=MTV3cHIzd2x6OXcxMw==" target="_blank"><img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
                 <a href="https://www.linkedin.com/in/am%C3%A9rica-x%C3%B3chitl-gonz%C3%A1lez-leos-b52415289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
                 <a href="https://discord.gg/zKaZmnUg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
                 <a href = "mailto:glzlxochitl@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@glzlxochitl"  /></a>
@@ -21,7 +19,8 @@
                 I am passionate about new technologies ❤️✨ and beyond programming ☝️, I am committed to the positive impact of technology <br>
                 in society 😃 and I dream of one day being able to contribute with my grain of sand 😊. <br>
                 </b></samp>
-                <br><br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+                <br><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
             </p>
         </div><br><br><br>
         <div>
