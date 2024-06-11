@@ -1,10 +1,5 @@
 <html>
-        <style>
-            body {
-                background-color: #0d1117;
-            }
-        </style>
-    <body>   <!-- Imagen -->
+    <body style="background-color: #0d1117;">      <!-- Imagen -->
         <div>
             <p align="center">
                 <br>
