@@ -1,5 +1,5 @@
 <html>
-    <body style="background-color: #0d1117;">      <!-- Imagen -->
+    <body style="background-color: #f0f0f0; padding: 10px;">      <!-- Imagen -->
         <div>
             <p align="center">
                 <br>
