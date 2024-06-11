@@ -1,5 +1,5 @@
 <html>
-    <body style="background-color: #f0f0f0; padding: 10px;">      <!-- Imagen -->
+    <body">      <!-- Imagen -->
         <div>
             <p align="center">
                 <br>
@@ -27,9 +27,9 @@
             <table align="center">  <!--coloca graficas-->
                 <tr border="none">
                 <td width="50%" align="center">
-                  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=glzlxochitl&theme=dark&show_icons=true&count_private=true" />
+                  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=glzlxochitl&theme=radical&show_icons=true&count_private=true" />
                   <br><br>
-                  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=glzlxochitl&theme=dark&hide_border=false" /> 
+                  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=glzlxochitl&theme=radical&hide_border=false" /> 
                 </td>
                 <td width="50%" align="center">
                   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=glzlxochitl&theme=dark&layout=compact"/>
