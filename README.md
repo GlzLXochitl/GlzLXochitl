@@ -11,11 +11,11 @@
         <div>
             <img src = "baner.png">
         </div>
-        <br><br>
+        <br>
         <div>
             <p align="center">#Take a look at my professional profile 🎓 at: <a href="https://glzlxochitl.github.io">https://glzlxochitl.github.io</a></p>
         </div>
-        <br><br>
+        <br><br><br>
         <p align="center">
             <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture><br><br>
             <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Multi-platform+software+development+student;++;Lover+of+technological+innovation..<3;++;programming+lover..<3;++;Self-taught+full+stack+developer"></a>
