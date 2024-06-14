@@ -7,7 +7,11 @@
                 <a href="https://discord.gg/zKaZmnUg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
                 <a href = "mailto:glzlxochitl@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@glzlxochitl"  /></a>
             </p>
-        </div><br><br>
+        </div>
+        <div>
+            <img src = "baner.png">
+        </div>
+        <br><br>
         <p align="center">
             <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture><br><br>
             <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Multi-platform+software+development+student;++;Lover+of+technological+innovation..<3;++;programming+lover..<3;++;Self-taught+full+stack+developer"></a>
