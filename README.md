@@ -11,6 +11,9 @@
         <div>
             <img src = "baner.png">
         </div>
+        <div style="background-color: #ff2d20; padding: 10px;">
+            <p>Take a look at my professional profile at: <a href="https://glzlxochitl.github.io">https://glzlxochitl.github.io</a></p>
+        </div>
         <br><br>
         <p align="center">
             <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture><br><br>
