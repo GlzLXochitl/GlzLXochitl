@@ -13,7 +13,7 @@
         </div>
         <br>
         <div>
-            <p align="center">#Take a look at my professional profile 🎓 at: <a href="https://glzlxochitl.github.io">https://glzlxochitl.github.io</a></p>
+            <p align="center">✨✨✨✨✨✨ Take a look at my professional profile 🎓 at: <a href="https://glzlxochitl.github.io">https://glzlxochitl.github.io</a> ✨✨✨✨✨✨</p>
         </div>
         <div>
             <p align="center">
