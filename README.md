@@ -11,9 +11,9 @@
         <div>
             <img src = "baner.png">
         </div>
+        <br><br>
         <div>
-        <img src="https://glzlxochitl.github.io/badge/Take a look at my professional profile at: -FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-            <p align="center">Take a look at my professional profile at: <a href="https://glzlxochitl.github.io">https://glzlxochitl.github.io</a></p>
+            <p align="center">#Take a look at my professional profile 🎓 at: <a href="https://glzlxochitl.github.io">https://glzlxochitl.github.io</a></p>
         </div>
         <br><br>
         <p align="center">
