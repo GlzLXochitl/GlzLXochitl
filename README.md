@@ -11,8 +11,8 @@
         <div>
             <img src = "baner.png">
         </div>
-        <div style="background-color: #ff2d20; padding: 10px;">
-            <p>Take a look at my professional profile at: <a href="https://glzlxochitl.github.io">https://glzlxochitl.github.io</a></p>
+        <div background-color: #ff2d20; padding: 10px;>
+            <p align="center">Take a look at my professional profile at: <a href="https://glzlxochitl.github.io">https://glzlxochitl.github.io</a></p>
         </div>
         <br><br>
         <p align="center">
