@@ -4,7 +4,7 @@
             <!--   my-header-img -->
             <img src = "/resources/header_.png" alt="baner">
         </div> 
-        <br><br><br>
+        <br><br>
         <div>
             <p align="center">
                 <br>
@@ -13,6 +13,7 @@
                 <a href = "mailto:glzlxochitl@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@glzlxochitl"  /></a>
             </p>
         </div>
+        <br><br><br>
         <div>
             <img src = "/resources/baner.png" alt="baner">
         </div>
