@@ -9,7 +9,7 @@
             </p>
         </div>
         <div>
-            <img src = "baner.png">
+            <img src = "/resources/baner.png" alt="baner">
         </div>
         <br>
         <div>
