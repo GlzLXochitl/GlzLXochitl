@@ -1,8 +1,9 @@
 <html>
     <body">  
         <div>
-            <a href="https://tryhackme.com/signup?referrer=6606c6ff813081fdb556602e"><img src="https://tryhackme-badges.s3.amazonaws.com/andrej.marinchenko.png" alt="TryHackMe"></a>
-            <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px>  
+            <!--   my-header-img -->
+            ![](./resources/header_.png)
+            <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
         </div> 
         <div>
             <p align="center">
