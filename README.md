@@ -4,6 +4,7 @@
             <!--   my-header-img -->
             <img src = "/resources/header_.png" alt="baner">
         </div> 
+        <br><br><br>
         <div>
             <p align="center">
                 <br>
@@ -30,7 +31,7 @@
         </biv>
         <br><br><br>
         <p align="center">
-            <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture><br><br>
+            <!--<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture><br><br>-->
             <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Multi-platform+software+development+student;++;Lover+of+technological+innovation..<3;++;programming+lover..<3;++;Self-taught+full+stack+developer"></a>
         </p>
         <div>
