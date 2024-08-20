@@ -3,8 +3,12 @@
         <div>
             <!--   my-header-img -->
             <img src = "/resources/header_.png" alt="baner">
-        </div> 
+        </div>
         <br>
+        <div>
+            <p align="center">✨</p>
+        </div>
+        <br> 
         <div>
             <p align="center">
                 <br>
