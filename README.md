@@ -68,7 +68,7 @@
                   <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=GlzLXochitl&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
                 </a>
             </div>
-            <br><br>
+            <br><br><br><br>
         <div align="center">  <!-- snake-->
                 <img src="/resources/grid-snake.svg" alt="snake">
         </div>
