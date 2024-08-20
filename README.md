@@ -4,11 +4,6 @@
             <!--   my-header-img -->
             <img src = "/resources/header_.png" alt="baner">
         </div>
-        <br>
-        <div>
-            <p align="center">✨</p>
-        </div>
-        <br> 
         <div>
             <p align="center">
                 <br>
@@ -16,6 +11,10 @@
                 <a href="https://discord.gg/zKaZmnUg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
                 <a href = "mailto:glzlxochitl@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@glzlxochitl"  /></a>
             </p>
+        </div>
+        <br>
+        <div>
+            <p align="center">✨</p>
         </div>
         <br><br><br>
         <div>
