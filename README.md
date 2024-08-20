@@ -4,7 +4,7 @@
             <!--   my-header-img -->
             <img src = "/resources/header_.png" alt="baner">
         </div> 
-        <br><br>
+        <br>
         <div>
             <p align="center">
                 <br>
