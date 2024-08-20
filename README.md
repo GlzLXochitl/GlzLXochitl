@@ -1,5 +1,9 @@
 <html>
-    <body">      <!-- Imagen -->
+    <body">  
+        <div>
+            <a href="https://tryhackme.com/signup?referrer=6606c6ff813081fdb556602e"><img src="https://tryhackme-badges.s3.amazonaws.com/andrej.marinchenko.png" alt="TryHackMe"></a>
+            <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px>  
+        </div> 
         <div>
             <p align="center">
                 <br>
