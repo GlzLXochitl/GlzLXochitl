@@ -53,7 +53,13 @@
                   </td>
                 </tr>
                 </table>
-        </div><br><br>
+        </div><br>
+            <div align=left>
+              <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+                  <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=CarlosGal19&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+                </a>
+            </div>
+            <br><br>
         <div align="center">  <!-- snake-->
                 <img src="/resources/grid-snake.svg" alt="snake">
         </div>
@@ -91,11 +97,6 @@
                 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
                 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
             </p>
-            <div align=left>
-              <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-                  <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=CarlosGal19&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-                </a>
-            </div>
         </div>
     </body>
 
